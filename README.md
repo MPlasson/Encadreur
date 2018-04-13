@@ -9,6 +9,6 @@ Code couleur des traits:
 # Copyright Notice
 Copyright (C) 2017 Maxime Plasson - All Rights Reserved.
 You may use, distribute and modify this project under the
-terms of the GNU General Public Licence version 3.0 license.
+terms of the GNU General Public License version 3.0 license.
 
-A copy of the GPLv3 license is included in the [LICENCE](https://github.com/MPlasson/Encadreur/blob/master/LICENSE) file.
+A copy of the GPLv3 license is included in the [LICENSE](https://github.com/MPlasson/Encadreur/blob/master/LICENSE) file.
